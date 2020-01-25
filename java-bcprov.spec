@@ -9,7 +9,6 @@
 %define classname   org.bouncycastle.jce.provider.BouncyCastleProvider
 
 %define		srcname		bcprov
-%include	/usr/lib/rpm/macros.java
 Summary:	Bouncy Castle Crypto Package for Java
 Name:		java-%{srcname}
 Version:	1.46
